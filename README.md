@@ -1,20 +1,48 @@
-# ✨ Hi there, I'm Dhivakar G  
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:0077B5&height=240&section=header&text=Dhivakar%20G&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Open%20Source%20Contributor&descAlignY=63&descSize=22" width="100%" alt="Banner"/>
+</p>
 
-> *Aspiring Full Stack & AI Developer passionate about building end-to-end web applications and exploring artificial intelligence.*
+<p align="center">
+    <b>Building intelligent, scalable, and user-centric digital experiences.</b>
+  Passionate about developing modern full stack applications, leveraging AI & Machine Learning,
+  and contributing to open-source projects that solve real-world problems.
+</p>
 
-I enjoy **building scalable applications**, **exploring AI/ML**, **contributing to Open Source**, and **learning new technologies**.  
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhivakar-g">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:dhivs838@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Dhivakar-25/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+</p>
 
-- 🌱 Currently working on **Full Stack projects** and **Open Source contributions**  
-- 🚀 Learning **Full Stack Development**, **AI/ML & Deep Learning**, and **Cloud & DevOps**  
-- 💡 Passionate about creating innovative solutions and expanding my tech skills
+## 🧑🏻‍💻 About Me
 
-## 👀 My Interests
-![Open Source](https://img.shields.io/badge/Open%20Source-%23FF3D00?style=for-the-badge&logo=git&logoColor=white) 
-![AI/ML & Deep Learning](https://img.shields.io/badge/AI%2FML-%236A0DAD?style=for-the-badge&logo=pytorch&logoColor=white) 
-![IoT](https://img.shields.io/badge/IoT-%231F1F1F?style=for-the-badge&logo=raspberrypi&logoColor=white) 
-![Full Stack Development](https://img.shields.io/badge/Full%20Stack-%23008080?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-%238B008B?style=for-the-badge&logo=aws&logoColor=white)
+I am an **Artificial Intelligence and Data Science undergraduate** with a strong passion for **Machine Learning, Artificial Intelligence, and Full Stack Development**. I enjoy designing and building intelligent, scalable applications that solve real-world challenges by combining modern software engineering practices with data-driven AI solutions.
 
+My interests extend across the complete AI development lifecycle—from data collection and model development to deployment and integration into production ready applications. I am committed to continuously learning emerging technologies and applying them to create innovative, impactful solutions and strengthening my understanding of software engineering principles, collaborative development, and industry-standard development workflows.
+
+### 🚀 Current Focus
+
+-  Building scalable **Full Stack** applications using modern web technologies
+-  Exploring **Machine Learning**, **Deep Learning**, and **Generative AI**
+-  Learning **Cloud Computing**, **DevOps**, and AI deployment strategies
+-  Developing data-driven applications with **Python**, **SQL**, and modern analytics tools
+-  Contributing to **Open Source** projects and participating in **Hackathons**
+
+### 👀 Areas of Interest
+
+![Open Source](https://img.shields.io/badge/Open%20Source-FF3D00?style=for-the-badge&logo=git&logoColor=white)
+![AI/ML & Deep Learning](https://img.shields.io/badge/AI%2FML-6A0DAD?style=for-the-badge&logo=pytorch&logoColor=white)
+![IoT](https://img.shields.io/badge/IoT-1F1F1F?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Full Stack Development](https://img.shields.io/badge/Full%20Stack-008080?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-8B008B?style=for-the-badge&logo=aws&logoColor=white)
 
 ## 🔥 Contribution Streak
 ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dhivakar2005&theme=buefy&hide_border=false)
@@ -44,14 +72,15 @@ I enjoy **building scalable applications**, **exploring AI/ML**, **contributing 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FCC435?style=for-the-badge&logo=huggingface&logoColor=black)
 
-## 📫 Connect with Me
-
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Dhivakar2005)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhivakar-g)
-[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Dhivakar2005/)
-
-## ✉️ How to Reach Me
-**Email:** [dhivs838@gmail.com](mailto:dhivs838@gmail.com)
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhivakar-g)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Dhivakar2005/)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhivs838@gmail.com)
 
 
-✨ *Thanks for visiting my profile! Have a wonderful day!* ✨
+<p align="center"><i>Thanks for visiting my profile — always open to collaborating on Full Stack and AI/ML projects! 🚀</i></p>
+<!--
+Keywords: Full Stack Developer, MERN Stack Developer, AI ML Engineer, Machine Learning Developer,
+Python Developer, React Developer, Node.js Developer, Software Engineer, Open Source Contributor,
+Web Developer Portfolio, Deep Learning, Cloud Computing, DevOps Engineer
+-->
