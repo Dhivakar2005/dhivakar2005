@@ -22,13 +22,13 @@
   </a>
 </p>
 
-## 🧑🏻‍💻 About Me
+## About Me
 
 I am an **Artificial Intelligence and Data Science undergraduate** with a strong passion for **Machine Learning, Artificial Intelligence, and Full Stack Development**. I enjoy designing and building intelligent, scalable applications that solve real-world challenges by combining modern software engineering practices with data-driven AI solutions.
 
 My interests extend across the complete AI development lifecycle—from data collection and model development to deployment and integration into production ready applications. I am committed to continuously learning emerging technologies and applying them to create innovative, impactful solutions and strengthening my understanding of software engineering principles, collaborative development, and industry-standard development workflows.
 
-### 🚀 Current Focus
+### Current Focus
 
 -  Building scalable **Full Stack** applications using modern web technologies
 -  Exploring **Machine Learning**, **Deep Learning**, and **Generative AI**
@@ -36,7 +36,7 @@ My interests extend across the complete AI development lifecycle—from data col
 -  Developing data-driven applications with **Python**, **SQL**, and modern analytics tools
 -  Contributing to **Open Source** projects and participating in **Hackathons**
 
-### 👀 Areas of Interest
+### Areas of Interest
 
 ![Open Source](https://img.shields.io/badge/Open%20Source-FF3D00?style=for-the-badge&logo=git&logoColor=white)
 ![AI/ML & Deep Learning](https://img.shields.io/badge/AI%2FML-6A0DAD?style=for-the-badge&logo=pytorch&logoColor=white)
@@ -44,10 +44,10 @@ My interests extend across the complete AI development lifecycle—from data col
 ![Full Stack Development](https://img.shields.io/badge/Full%20Stack-008080?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-8B008B?style=for-the-badge&logo=aws&logoColor=white)
 
-## 🔥 Contribution Streak
+## Contribution Streak
 ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dhivakar2005&theme=buefy&hide_border=false)
 
-## 💻 Tech Stack
+## Tech Stack
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
@@ -71,12 +71,6 @@ My interests extend across the complete AI development lifecycle—from data col
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) 
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FCC435?style=for-the-badge&logo=huggingface&logoColor=black)
-
-## 📫 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhivakar-g)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/Dhivakar2005/)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dhivs838@gmail.com)
-
 
 <p align="center"><i>Thanks for visiting my profile — always open to collaborating on Full Stack and AI/ML projects! 🚀</i></p>
 <!--
