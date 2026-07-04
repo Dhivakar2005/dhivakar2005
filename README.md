@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:0077B5&height=240&section=header&text=Dhivakar%20G&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%2FML%20Enthusiast%20%E2%80%A2%20Open%20Source%20Contributor&descAlignY=63&descSize=22" width="100%" alt="Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6A0DAD,100:0077B5&height=240&section=header&text=Dhivakar%20G&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%E2%80%A2%20AI%20Enthusiast%20%E2%80%A2%20Open%20Source%20Contributor&descAlignY=63&descSize=22" width="100%" alt="Banner"/>
 </p>
 
 <p align="center">
@@ -46,6 +46,14 @@ My interests extend across the complete AI development lifecycle—from data col
 
 ## Contribution Streak
 ![Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=Dhivakar2005&theme=buefy&hide_border=false)
+
+## My Journey
+- Started with Web Development
+- Expanded into Full Stack Development
+- Learned Machine Learning & Deep Learning
+- Exploring Generative AI and LLMs
+- Building production-ready AI applications
+- Continuously growing through projects and collaboration
 
 ## Tech Stack
 
